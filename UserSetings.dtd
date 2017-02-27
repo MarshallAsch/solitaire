@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<UserSetings>
+    <user>
+        <userName/>
+        <password/>
+        <colorR>0</colorR>
+        <colorG>140</colorG>
+        <colorB>0</colorB>
+        <showTime>true</showTime>
+        <showNumMoves>true</showNumMoves>
+        <cardBack>Cards/cardBack1.png</cardBack>
+        <toFlip>3</toFlip>
+    </user>
+    <user>
+        <userName>abc</userName>
+        <password>123</password>
+        <colorR>173</colorR>
+        <colorG>0</colorG>
+        <colorB>200</colorB>
+        <showTime>true</showTime>
+        <showNumMoves>true</showNumMoves>
+        <cardBack>Cards/cardBack2.png</cardBack>
+        <toFlip>0</toFlip>
+    </user>
+    <user>
+        <userName>marshall</userName>
+        <password>123</password>
+        <colorR>0</colorR>
+        <colorG>140</colorG>
+        <colorB>0</colorB>
+        <showTime>true</showTime>
+        <showNumMoves>true</showNumMoves>
+        <cardBack>Cards/cardBack1.png</cardBack>
+        <toFlip>3</toFlip>
+    </user>
+</UserSetings>
